@@ -1,6 +1,6 @@
 fastapi==0.95.2
 uvicorn==0.22.0
-opencv-python==4.7.0.76
+opencv-python==4.7.0.72
 matplotlib==3.6.3
 numpy==1.24.1
 python-docx==0.8.11
